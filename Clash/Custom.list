@@ -3,6 +3,7 @@ DOMAIN,appstoreconnect.apple.com
 DOMAIN,idmsa.apple.com
 DOMAIN,analytics.itunes.apple.com
 DOMAIN,developer.apple.com
+DOMAIN-SUFFIX,apple.news
 # Microsoft Services
 DOMAIN-SUFFIX,cloudapp.net
 DOMAIN-SUFFIX,cloudappsecurity.com
@@ -10,6 +11,8 @@ DOMAIN-SUFFIX,hotmail.com
 DOMAIN-SUFFIX,live.com
 DOMAIN-SUFFIX,office.com
 DOMAIN-SUFFIX,office365.com
+DOMAIN-SUFFIX,onedrive.com
 DOMAIN-SUFFIX,onenote.com
+DOMAIN-SUFFIX,onenote.net
 DOMAIN-SUFFIX,outlook.com
 DOMAIN-SUFFIX,skype.com

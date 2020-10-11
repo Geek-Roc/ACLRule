@@ -1,10 +1,11 @@
-# Apple的某些服务
+# 苹果服务
 DOMAIN,appstoreconnect.apple.com
 DOMAIN,idmsa.apple.com
 DOMAIN,analytics.itunes.apple.com
 DOMAIN,developer.apple.com
 DOMAIN-SUFFIX,apple.news
-# Microsoft Services
+# 微软服务
+DOMAIN-KEYWORD,microsoft
 DOMAIN-SUFFIX,cloudapp.net
 DOMAIN-SUFFIX,cloudappsecurity.com
 DOMAIN-SUFFIX,hotmail.com

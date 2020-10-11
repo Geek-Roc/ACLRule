@@ -3,4 +3,5 @@ DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,crashlytics.com
 DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,icloud.com
+DOMAIN,cdn.apple-cloudkit.com
 DOMAIN-SUFFIX,itunes.com

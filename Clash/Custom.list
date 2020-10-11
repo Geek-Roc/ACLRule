@@ -1,0 +1,15 @@
+# Apple的某些服务
+DOMAIN-SUFFIX,appstoreconnect.apple.com
+DOMAIN-SUFFIX,idmsa.apple.com
+DOMAIN-SUFFIX,analytics.itunes.apple.com
+DOMAIN-SUFFIX,developer.apple.com
+# Microsoft Services
+DOMAIN-SUFFIX,cloudapp.net
+DOMAIN-SUFFIX,cloudappsecurity.com
+DOMAIN-SUFFIX,hotmail.com
+DOMAIN-SUFFIX,live.com
+DOMAIN-SUFFIX,office.com
+DOMAIN-SUFFIX,office365.com
+DOMAIN-SUFFIX,onenote.com
+DOMAIN-SUFFIX,outlook.com
+DOMAIN-SUFFIX,skype.com

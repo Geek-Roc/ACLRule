@@ -1,8 +1,8 @@
 # Apple的某些服务
-DOMAIN-SUFFIX,appstoreconnect.apple.com
-DOMAIN-SUFFIX,idmsa.apple.com
-DOMAIN-SUFFIX,analytics.itunes.apple.com
-DOMAIN-SUFFIX,developer.apple.com
+DOMAIN,appstoreconnect.apple.com
+DOMAIN,idmsa.apple.com
+DOMAIN,analytics.itunes.apple.com
+DOMAIN,developer.apple.com
 # Microsoft Services
 DOMAIN-SUFFIX,cloudapp.net
 DOMAIN-SUFFIX,cloudappsecurity.com

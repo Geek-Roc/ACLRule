@@ -1,19 +1,7 @@
 # 苹果服务
 DOMAIN,appstoreconnect.apple.com
-DOMAIN,idmsa.apple.com
 DOMAIN,analytics.itunes.apple.com
 DOMAIN,developer.apple.com
-DOMAIN-SUFFIX,apple.news
-# 微软服务
-DOMAIN-KEYWORD,microsoft
-DOMAIN-SUFFIX,cloudapp.net
-DOMAIN-SUFFIX,cloudappsecurity.com
-DOMAIN-SUFFIX,hotmail.com
-DOMAIN-SUFFIX,live.com
-DOMAIN-SUFFIX,office.com
-DOMAIN-SUFFIX,office365.com
-DOMAIN-SUFFIX,onedrive.com
-DOMAIN-SUFFIX,onenote.com
-DOMAIN-SUFFIX,onenote.net
-DOMAIN-SUFFIX,outlook.com
-DOMAIN-SUFFIX,skype.com
+DOMAIN,testflight.apple.com
+DOMAIN,sandbox.itunes.apple.com
+DOMAIN,itunes.apple.com

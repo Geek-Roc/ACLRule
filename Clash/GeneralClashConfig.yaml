@@ -27,7 +27,7 @@ socks-port: 7891
 
 # 允许局域网的连接（可用来共享代理）
 allow-lan: false
-# bind-address: "*"
+bind-address: "*"
 # 此功能仅在 allow-lan 设置为 true 时生效，支持三种参数：
 # "*"                           绑定所有的 IP 地址
 # 192.168.122.11                绑定一个的 IPv4 地址
@@ -47,7 +47,7 @@ external-controller: 127.0.0.1:9090
 
 # 存放配置文件的相对路径，或存放网页静态资源的绝对路径
 # Clash core 将会将其部署在 http://{{external-controller}}/ui
-# external-ui: folder
+external-ui: folder
 
 # RESTful API 的口令 (可选)
 # 通过 HTTP 头中 Authorization: Bearer ${secret} 参数来验证口令
@@ -61,7 +61,7 @@ external-controller: 127.0.0.1:9090
 # 支持通配符域名 (例如: *.clash.dev, *.foo.*.example.com )
 # 不使用通配符的域名优先级高于使用通配符的域名 (例如: foo.example.com > *.example.com > .example.com )
 # 注意: +.foo.com 的效果等同于 .foo.com 和 foo.com
-# hosts:
+hosts:
 # '*.clash.dev': 127.0.0.1
 # '.dev': 127.0.0.1
 # 'alpha.clash.dev': '::1'
@@ -190,10 +190,9 @@ dns:
   #
   # 采取以上逻辑进行域名解析是为了对抗 DNS 投毒攻击。
   fallback-filter:
-    geoip: false
+    geoip: true
     ipcidr:
-      - 240.0.0.0/4
-      - 0.0.0.0/32
+      # - 240.0.0.0/4
     # domain:
     #   - '+.google.com'
     #   - '+.facebook.com'

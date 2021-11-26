@@ -5,3 +5,6 @@ DOMAIN,developer.apple.com
 DOMAIN,testflight.apple.com
 DOMAIN,sandbox.itunes.apple.com
 DOMAIN,itunes.apple.com
+
+# 多维新闻
+DOMAIN-KEYWORD,dwnews

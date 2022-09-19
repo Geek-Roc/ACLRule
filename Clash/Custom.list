@@ -8,3 +8,6 @@ DOMAIN,itunes.apple.com
 
 # 多维新闻
 DOMAIN-KEYWORD,dwnews
+
+# bilibili
+DOMAIN-SUFFIX,bilibili.tv

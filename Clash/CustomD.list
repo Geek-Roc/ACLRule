@@ -23,5 +23,5 @@ DOMAIN-SUFFIX,iyxian.com
 DOMAIN-SUFFIX,iyxian.cn
 
 # bilibili
-DOMAIN-SUFFIX,biliintl.co,DIRECT
-DOMAIN-SUFFIX,bilibili.co,DIRECT
+DOMAIN-SUFFIX,biliintl.co
+DOMAIN-SUFFIX,bilibili.co
